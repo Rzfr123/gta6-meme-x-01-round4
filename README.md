@@ -1,7 +1,8 @@
 # GTA 6 sick note — gta6-meme-x-01 round 4
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-d10e7c)](https://make.fun/bounty/gta6-meme-x-01)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/Rzfr123/gta6-meme-x-01-round4/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/Rzfr123/gta6-meme-x-01-round4/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
 
 A GTA 6 meme for the [make.fun bounty](https://make.fun/bounty/gta6-meme-x-01):
 a doctor's note from Leonida General Hospital. After a 13-year wait since
