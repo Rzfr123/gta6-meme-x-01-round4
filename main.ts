@@ -63,6 +63,12 @@ const url = (parsed as { url?: unknown }).url;
 if (typeof url !== 'string' || !POST_URL_PATTERN.test(url)) {
   fail('POST.json url must be an X post address (https://x.com/<handle>/status/<id>)');
 }
+// The placeholder is a valid shape for local runs, but it is not a post:
+// say so out loud instead of copying it silently, so nobody mistakes a
+// placeholder run for a submittable entry.
+if (url.includes('PLACEHOLDER')) {
+  console.error('main.ts: warning: POST.json still holds the placeholder URL');
+}
 
 mkdirSync(OUTPUT_DIR, { recursive: true });
 try {
